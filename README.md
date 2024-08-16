@@ -1,7 +1,7 @@
 ## Hi there! I'm Rafael 👋
 
 - 🔭 I'm a Full Stack Web Developer and Computer Science Student at the Federal Technological University of Paraná in Brazil;
-- 🌱 I’m currently learning ReactJS, TypeScript, Python and YOLO;
+- 🌱 I’m currently learning Angular, TypeScript, Python, Pandas and YOLO;
 - 🥅 2024 Goals: Improve my skills as a Web Developer.
 
 <div align="center">
